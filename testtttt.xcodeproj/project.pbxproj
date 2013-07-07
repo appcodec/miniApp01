@@ -18,6 +18,8 @@
 		FA204A791781A3D700716747 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA204A781781A3D700716747 /* Default-568h@2x.png */; };
 		FA204A7C1781A3D700716747 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA204A7A1781A3D700716747 /* MainStoryboard.storyboard */; };
 		FA204A7F1781A3D700716747 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA204A7E1781A3D700716747 /* ViewController.m */; };
+		FA204A861781AA7300716747 /* oath.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA204A851781AA7300716747 /* oath.jpg */; };
+		FA204A881781CB2F00716747 /* friend_button.png in Resources */ = {isa = PBXBuildFile; fileRef = FA204A871781CB2F00716747 /* friend_button.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		FA204A7B1781A3D700716747 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		FA204A7D1781A3D700716747 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		FA204A7E1781A3D700716747 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FA204A851781AA7300716747 /* oath.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oath.jpg; sourceTree = "<group>"; };
+		FA204A871781CB2F00716747 /* friend_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = friend_button.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,7 @@
 				FA204A7A1781A3D700716747 /* MainStoryboard.storyboard */,
 				FA204A7D1781A3D700716747 /* ViewController.h */,
 				FA204A7E1781A3D700716747 /* ViewController.m */,
+				FA204A851781AA7300716747 /* oath.jpg */,
 				FA204A691781A3D700716747 /* Supporting Files */,
 			);
 			path = testtttt;
@@ -96,6 +101,7 @@
 		FA204A691781A3D700716747 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FA204A871781CB2F00716747 /* friend_button.png */,
 				FA204A6A1781A3D700716747 /* testtttt-Info.plist */,
 				FA204A6B1781A3D700716747 /* InfoPlist.strings */,
 				FA204A6E1781A3D700716747 /* main.m */,
@@ -163,6 +169,8 @@
 				FA204A771781A3D700716747 /* Default@2x.png in Resources */,
 				FA204A791781A3D700716747 /* Default-568h@2x.png in Resources */,
 				FA204A7C1781A3D700716747 /* MainStoryboard.storyboard in Resources */,
+				FA204A861781AA7300716747 /* oath.jpg in Resources */,
+				FA204A881781CB2F00716747 /* friend_button.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
